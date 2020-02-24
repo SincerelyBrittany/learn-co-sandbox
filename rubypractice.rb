@@ -26,3 +26,7 @@ puts num.ceil()
 puts num.floor()
 puts Math.sqrt(36)
 
+puts 10/7 #you will get the integer 1 Backk
+outs 10/7.0 # you will get the float/decimal back
+
+
