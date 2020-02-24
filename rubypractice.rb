@@ -6,6 +6,7 @@ second_number = 14
  
 sum = first_number + second_number
  
+<<<<<<< HEAD
 puts sum
 
 puts "programming".upcase()
@@ -30,3 +31,6 @@ puts 10/7 #you will get the integer 1 Backk
 outs 10/7.0 # you will get the float/decimal back
 
 
+=======
+puts sum
+>>>>>>> 9e0d2e6708eb3e234f3efb683351e2fbf9836510
